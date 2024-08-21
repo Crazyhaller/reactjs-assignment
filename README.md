@@ -25,7 +25,7 @@ This project is a ReactJS application bootstrapped with [Create React App](https
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Crazyhaller/fullstack-assignment.git
+   git clone https://github.com/Crazyhaller/reactjs-assignment.git
    ```
 
 2. Navigate to the directory:
